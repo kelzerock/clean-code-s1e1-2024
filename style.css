@@ -45,7 +45,10 @@
   margin: 0 auto 0;
 }
 
-.add-tasks__input {
+
+.add-tasks__input,
+.block-tasks__label,
+.block-tasks__input-text {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
